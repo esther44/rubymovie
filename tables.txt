@@ -1,0 +1,3 @@
+user : id - login - password
+movie : id - image - name -description
+liste : id - id_user - id_film  - checked
